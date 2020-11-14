@@ -1,4 +1,4 @@
-name="Better slavs: Changes in culture (core 2.1)"
+name="Better slavic: Changes in cultures (core)"
 archive="mod/betterslavscore.zip"
 tags={
 	"New Nations"
@@ -9,4 +9,4 @@ tags={
 	"Missions And Decisions"
 	"Fixes"
 }
-supported_version="1.29.*"
+supported_version="1.30.*"
