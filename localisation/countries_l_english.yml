@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  ADA:0 "Adal"
  ADE:1 "Aden"
  AKK:0 "Aq Qoyunlu"
@@ -1092,7 +1092,7 @@ l_english:
  ICE:0 "Iceland"
  ICE_ADJ:0 "Icelandic"
  SLO:0 "Slovakia"
- SLO_ADJ:0 "Slovakian"
+ SLO_ADJ:0 "slovakian"
  HSC:0 "Gaeldom"
  HSC_ADJ:0 "Gaelic"
  ROM:0 "Roman Empire"
