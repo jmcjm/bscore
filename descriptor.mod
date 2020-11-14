@@ -1,12 +1,11 @@
-name="Better slavic: Changes in cultures (core)"
-archive="mod/betterslavscore.zip"
+version="1.30.*"
 tags={
-	"New Nations"
 	"Alternative History"
-	"Expansion"
 	"Gameplay"
 	"Historical"
 	"Missions And Decisions"
-	"Fixes"
 }
-supported_version="1.30.*"
+name="Better slavic: Changes in cultures (core)"
+supported_version="1.30.4"
+path="/home/jmc/.local/share/Steam/steamapps/workshop/content/236850/bscore"
+remote_file_id="bscore"
