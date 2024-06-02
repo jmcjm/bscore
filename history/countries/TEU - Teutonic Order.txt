@@ -4,10 +4,10 @@ government_rank = 1
 primary_culture = prussian
 religion = catholic
 technology_group = western
-historical_friend = LIV
-historical_rival = POL
 add_accepted_culture = polish
 add_accepted_culture = kashubian
+historical_friend = LIV
+historical_rival = POL
 capital = 1841	# Marienburg
 add_army_professionalism = 0.1
 
@@ -57,7 +57,7 @@ change_estate_land_share = {
 
 1413.1.1 = {
 	monarch = {
-		name = "Michael Küchmeister"
+		name = "Michael KÃ¼chmeister"
 		birth_date = 1365.1.1
 		adm = 2
 		dip = 1
@@ -99,7 +99,7 @@ change_estate_land_share = {
 	}
 }
 
-1466.10.19 = { capital = 41 government_rank = 1 } # Königsberg
+1466.10.19 = { capital = 41 government_rank = 1 } # KÃ¶nigsberg
 
 1467.4.5 = {
 	monarch = {

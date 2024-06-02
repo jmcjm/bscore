@@ -1,4 +1,4 @@
-version="1.30.*"
+version="1.37.*"
 tags={
 	"Alternative History"
 	"Gameplay"
@@ -6,6 +6,6 @@ tags={
 	"Missions And Decisions"
 }
 name="Better slavic: Changes in cultures (core)"
-supported_version="1.30.4"
+supported_version="1.37.*"
 path="/home/jmc/.local/share/Steam/steamapps/workshop/content/236850/bscore"
 remote_file_id="bscore"

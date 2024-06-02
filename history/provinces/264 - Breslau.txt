@@ -3,9 +3,9 @@
 owner = OPL
 controller = OPL
 culture = schlesian
-add_core = SIL
 religion = catholic
 capital = "Breslau"
+add_core = SIL
 trade_goods = cloth
 hre = yes
 base_tax = 5 

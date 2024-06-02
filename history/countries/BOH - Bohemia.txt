@@ -1,11 +1,11 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = bohemian_elective_kingdom_reform
 primary_culture = czech
 religion = catholic
 elector = yes
 capital = 266 # Praha
-technology_group = western
 historical_friend = SLO
+technology_group = western
 add_accepted_culture = sorbian
 add_army_professionalism = 0.1
 
@@ -29,7 +29,7 @@ change_estate_land_share = {
 
 1419.1.1 = { leader = {	name = "Jan Zizka"	type = general	fire = 6	shock = 3	manuever = 5	siege = 0	death_date = 1424.10.11 } }
 
-1419.1.1 = { leader = {	name = "Prokop Holư"	type = general	fire = 4	shock = 3	manuever = 5	siege = 1	death_date = 1434.5.30 } }
+1419.1.1 = { leader = {	name = "Prokop Holý"	type = general	fire = 4	shock = 3	manuever = 5	siege = 1	death_date = 1434.5.30 } }
 
 # Personal Union with Habsburg under Albrecht II 1437-1439
 
